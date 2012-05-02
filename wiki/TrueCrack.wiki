@@ -1,1 +1,1 @@
-TrueCrack is a brute-force and dictionary password cracker for TrueCrypt(c) volume files. It works on Linux and it is optimized with Nvidia Cuda technology.
+TrueCrack is a brute-force and dictionary password cracker for TrueCrypt(c) volume files. It works on Linux and it is optimized with Nvidia Cuda technology. (http://code.google.com/p/truecrack/)
