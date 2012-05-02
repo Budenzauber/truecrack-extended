@@ -1,1 +1,1 @@
-The root folder of TrueCrack Extended
+It's the client/server part that gives [TrueCrack_Optimized TrueCrack Optimized] scalability and thus a higher performance increase when used with multiple clients.
