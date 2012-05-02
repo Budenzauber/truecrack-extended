@@ -1,1 +1,1 @@
-A file containing the header of a TrueCrypt File or Disk-Volume (first 512 bytes). Or just a plain TrueCrypt volume, though they can get rather huge!
+The default folder containing the [header_files header files].
