@@ -1,0 +1,1 @@
+The DataPort is used to distribute the data needed for the calculations, more precisely the header file and passwords.
