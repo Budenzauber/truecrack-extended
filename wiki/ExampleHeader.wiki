@@ -1,1 +1,3 @@
 Example Header file. (Plain TrueCrypt volume encrypted with AES-XTS and RIPEMD-160)
+
+Password is: 12345
