@@ -1,0 +1,1 @@
+Example Header file. (Plain TrueCrypt volume encrypted with AES-XTS and RIPEMD-160)
