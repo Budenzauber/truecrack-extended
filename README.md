@@ -1,4 +1,7 @@
 # truecrack-extended
+## DISCLAIMER
+This project is no longer under development. You are free to branch of this project to make any changes you like. If you are lucky you will even receive an answer to any of your questions, though I can not guarantuee it.
+
 ## What is this?
 
 TrueCrack Extended is a client/server application for dictionary attacks on TrueCrypt volumes encrypted with AES-XTS and RIPEMD-160 hash algorithm. It was developed using C, CUDA and C++ with QT for the client/server part.
